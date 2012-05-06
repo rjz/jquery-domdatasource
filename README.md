@@ -78,4 +78,4 @@ RJ Zaworski <rj@rjzaworski.com>
 License
 -------
 
-JSON License
+The jquery.DOMDataSource plugin is released under the WTFPL License. You can read the license [here](http://sam.zoy.org/wtfpl/).
